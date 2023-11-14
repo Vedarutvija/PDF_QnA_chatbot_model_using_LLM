@@ -1,0 +1,13 @@
+reportlab
+streamlit
+tiktoken
+PyPDF2
+openai
+langchain
+faiss-cpu
+streamlit-chat
+pillow
+pypdf
+nltk
+tensorflow
+keras
